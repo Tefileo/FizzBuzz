@@ -11,6 +11,7 @@
 # As a player, I should be able to exit the game using a key word,
 # so that I can stop playing
 
+import time
 program = 'GO'
 
 while program != 'STOP':
@@ -20,12 +21,18 @@ while program != 'STOP':
 
         if x%3 == 0 and x%5 == 0 and x != 0:
             print('FizzBuzz')
+            time.sleep(0.1)
         elif x%3 == 0 and x != 0:
             print('POP')
+            time.sleep(0.1)
+
         elif x%5 == 0 and x != 0:
             print('TOC')
+            time.sleep(0.1)
+
         else:
             print(x)
+            time.sleep(0.1)
 
     program = input('To stop game enter "STOP", otherwise hit "ENTER"')
 
