@@ -16,6 +16,7 @@ program = 'GO'
 
 def three_mod(num1):
     return x % 3 == 0
+
 def five_mod(num2):
     return x%5 == 0
 
