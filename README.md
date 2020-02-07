@@ -14,17 +14,18 @@ As a player, I should be able to exit the game using a key word,
 so that I can stop playing
 
 
-Learning Outcomes
-Functions
-While loops
-For loops
-Import time library
-Program
-User input
-Comparison Operators
-While loops
-If else statements
-Git
-Github
-MarkDown Files
-Variables, Datatypes, Control Flow, Loops, Iterators, DRY, other
+# Learning Outcomes
+
+- Functions
+- While loops
+- For loops
+- Import time library
+- Program
+- User input
+- Comparison Operators
+- While loops
+- If else statements
+- Git
+- Github
+- MarkDown Files
+- Variables, Datatypes, Control Flow, Loops, Iterators and DRY.
