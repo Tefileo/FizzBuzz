@@ -14,7 +14,7 @@ As a player, I should be able to exit the game using a key word,
 so that I can stop playing
 
 
-Learning Outcomes
+# Learning Outcomes
 Functions
 While loops
 For loops
